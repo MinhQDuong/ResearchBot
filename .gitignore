@@ -1,0 +1,17 @@
+# Ignore virtual environment folders
+Deepseek_R1/
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Streamlit secrets
+.streamlit/
+
+# Ignore uploaded PDFs
+document_store/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
