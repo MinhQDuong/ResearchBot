@@ -9,9 +9,6 @@ __pycache__/
 # Ignore Streamlit secrets
 .streamlit/
 
-# Ignore uploaded PDFs
-document_store/
-
 # Ignore IDE-specific files
 .vscode/
 .idea/
