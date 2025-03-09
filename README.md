@@ -7,3 +7,10 @@
 ## Resources used
 - Libraries: langchain, pinecone, huggingface, streamlit
 - Model used: deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+
+## Web page
+![Generating answer](images/generating_answer.png)
+
+![Answer with citation](images/answer_citation.png)
+
+![Conversation History](images/conversation_history.png)
