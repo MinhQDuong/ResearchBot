@@ -8,7 +8,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from pinecone import Pinecone, ServerlessSpec
 import numpy as np
-from tqdm import tqdm  # For progress bars
+
 
 def retrieve_paper_info(query: str, max_results: int):
     """
